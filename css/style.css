@@ -1,0 +1,34 @@
+.grid-container {
+        
+}
+header {
+     background-color: red;   
+}
+article {
+     background-color: green
+}
+aside {
+     background-color: blue
+}
+footer {
+     background-color: yellow
+}
+
+
+
+/********************************/
+/* DO NOT EDIT BELOW THIS LINE */
+/********************************/
+
+h1 {
+  margin: 0;
+}
+
+header nav li, 
+footer nav li {
+  display: inline-block;
+}
+
+aside img {
+  height: 200px;
+}
